@@ -13,7 +13,11 @@ This repository contains the code for the FurnitureShop educational project — 
 ## 📦 Installation
 
 Clone the repository:
+
 git clone https://github.com/your-username/furnitureshop.git
+
 cd furnitureshop
+
 npm install
+
 npm run dev
